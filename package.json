@@ -22,7 +22,8 @@
   ],
   "main": "lib/index.js",
   "files": [
-    "lib"
+    "nspell.js",
+    "nspell.min.js"
   ],
   "dependencies": {},
   "devDependencies": {
