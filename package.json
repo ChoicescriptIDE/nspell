@@ -24,9 +24,7 @@
   "files": [
     "lib"
   ],
-  "dependencies": {
-    "is-buffer": "^2.0.0"
-  },
+  "dependencies": {},
   "devDependencies": {
     "bail": "^1.0.1",
     "browserify": "^17.0.0",
