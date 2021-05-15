@@ -1,0 +1,9 @@
+/.github/
+/.vscode/
+/lib/
+changelog.md
+funding.yml
+license
+package.json
+readme.md
+/test/
